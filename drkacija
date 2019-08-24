@@ -294,3 +294,16 @@ http://clienteworld.com:80/95203/95203/4064
 http://clienteworld.com:80/95203/95203/4063
 #EXTINF:-1,PureMature 77
 http://clienteworld.com:80/95203/952
+#EXTM3U
+#EXTINF:-1,Top Channel
+http://163.172.211.229:8000/live/sula/sula123/28.ts
+#EXTINF:-1,Klan TV
+http://163.172.211.229:8000/live/sula/sula123/27.ts
+#EXTINF:-1,Vizion Plus
+http://163.172.211.229:8000/live/sula/sula123/26.ts
+#EXTINF:-1,Klan plus
+http://163.172.211.229:8000/live/sula/sula123/86.ts
+#EXTINF:-1,news 24
+http://163.172.211.229:8000/live/sula/sula123/75.ts
+#EXTINF:-1,Report tv
+http://163.172.211.229:
